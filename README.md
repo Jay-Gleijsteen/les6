@@ -1,20 +1,17 @@
-# les6
+# dit ben ik
 
+- ik ben jay gleijsteen
+- ik ben een software student
+- ik speel games
+  
+* ik heb 4 katten
+* ik zit op media college
+* ik ben 16
 
-## dit is klein
+1. ik woon in obdam
+2. ik heb 1 uur reistijd
+3. ik leef met mijn familie
 
--eerste
--tweede
--derde
+[mijn website](36629.hosts2.ma-cloud.nl)
 
-*linkse
-*rechts
-*rechtdoor
-
-1. eerste
-2. tweede
-3. derde
-   
-    [mein website](36629.hosts2.ma-cloud.nl)
-
-    (![google](pinda-1.png)
+![obdam](obdam.jpeg)
